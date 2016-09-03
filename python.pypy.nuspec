@@ -4,7 +4,7 @@
   <metadata>
     <id>python.pypy</id>
     <version>5.4.0</version>
-    <packageSourceUrl>https://github.com/kirbyfan64/choco-pypy</packageSourceUrl>
+    <packageSourceUrl>https://github.com/kirbyfan64/python.pypy</packageSourceUrl>
     <owners>Ryan Gonzalez</owners>
     <title>PyPy (Install)</title>
     <authors>The PyPy Developers</authors>
