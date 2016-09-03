@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>python.pypy</id>
+    <version>5.4.0</version>
+    <packageSourceUrl>https://github.com/kirbyfan64/choco-pypy</packageSourceUrl>
+    <owners>Ryan Gonzalez</owners>
+    <title>PyPy (Install)</title>
+    <authors>The PyPy Developers</authors>
+    <projectUrl>http://www.pypy.org</projectUrl>
+    <iconUrl>https://rawgit.com/kirbyfan64/python.pypy/master/pypy-icon.png</iconUrl>
+    <copyright>2003-2016 The PyPy Developers</copyright>
+    <licenseUrl>https://bitbucket.org/pypy/pypy/src/default/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://bitbucket.org/pypy/pypy</projectSourceUrl>
+    <docsUrl>https://pypy.readthedocs.io/en/latest/</docsUrl>
+    <mailingListUrl>https://mail.python.org/mailman/listinfo/pypy-dev</mailingListUrl>
+    <bugTrackerUrl>https://bitbucket.org/pypy/pypy/issues</bugTrackerUrl>
+    <tags>python pypy jit rpython</tags>
+    <summary>PyPy - a fast Python interpreter</summary>
+    <description>PyPy is a fast, compliant Python 2 interpreter written in Python.</description>
+    <releaseNotes>http://pypy.readthedocs.io/en/latest/release-pypy2.7-v5.4.0.html</releaseNotes>
+    <dependencies>
+      <dependency id="vcredist2008"/>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
