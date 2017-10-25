@@ -3,9 +3,11 @@ python.pypy
 
 A Chocolatey package for PyPy.
 
-**Current version:** 5.4.0
+**Current version:** 5.9 (Python 2)
 
-[Chocolatey package link.](https://chocolatey.org/packages/python.pypy)
+`Chocolatey package link`_.
+
+.. _Chocolatey package link: https://chocolatey.org/packages/python.pypy
 
 Installing
 **********
