@@ -1,1 +1,1 @@
-Uninstall-ChocolateyZipPackage 'python.pypy' 'pypy2-v5.4.1-win32.zip'
+Uninstall-ChocolateyZipPackage 'python.pypy' 'pypy2-v5.9.0-win32.zip'
