@@ -2,8 +2,8 @@ $ErrorActionPreference = 'Stop'
 
 $packagename  = 'python.pypy'
 $toolsdir     = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url          = 'https://bitbucket.org/pypy/pypy/downloads/pypy2-v5.9.0-win32.zip'
-$checksum     = '43b6b0e8afb11b76a13e606499f0d9d4'
+$url          = 'https://bitbucket.org/pypy/pypy/downloads/pypy2-v5.10.0-win32.zip'
+$checksum     = '3474e06bfcc9c91bc5533aeabd077b3d'
 $checksumType = 'md5'
 
 $packageargs = @{
