@@ -3,7 +3,7 @@ python.pypy
 
 A Chocolatey package for PyPy.
 
-**Current version:** 5.9 (Python 2)
+**Current version:** 5.10 (Python 2)
 
 `Chocolatey package link`_.
 

@@ -3,15 +3,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>python.pypy</id>
-    <version>5.9</version>
+    <version>5.10</version>
     <packageSourceUrl>https://github.com/kirbyfan64/python.pypy</packageSourceUrl>
     <owners>Ryan Gonzalez</owners>
     <title>PyPy</title>
     <authors>The PyPy Developers</authors>
     <projectUrl>http://www.pypy.org</projectUrl>
     <iconUrl>https://rawgit.com/kirbyfan64/python.pypy/master/pypy-icon.png</iconUrl>
-    <copyright>2003-2017 The PyPy Developers</copyright>
-    <licenseUrl>https://bitbucket.org/pypy/pypy/src/release-pypy2.7-v5.9.0/LICENSE</licenseUrl>
+    <copyright>2003-2018 The PyPy Developers</copyright>
+    <licenseUrl>https://bitbucket.org/pypy/pypy/src/release-pypy2.7-v5.10.0/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://bitbucket.org/pypy/pypy</projectSourceUrl>
     <docsUrl>https://pypy.readthedocs.io/en/latest/</docsUrl>
@@ -20,7 +20,7 @@
     <tags>python pypy jit rpython</tags>
     <summary>PyPy - a fast Python interpreter</summary>
     <description>PyPy is a fast, compliant Python 2.7 interpreter written in Python.</description>
-    <releaseNotes>http://pypy.readthedocs.io/en/latest/release-v5.9.0.html</releaseNotes>
+    <releaseNotes>http://pypy.readthedocs.io/en/latest/release-v5.10.0.html</releaseNotes>
     <dependencies>
       <dependency id="vcredist2008"/>
     </dependencies>
