@@ -1,1 +1,1 @@
-@choco install python.pypy -fdv -s "'.;https://chocolatey.org/api/v2/'"
+@choco upgrade python.pypy -fdv -s "'.;https://chocolatey.org/api/v2/'"
