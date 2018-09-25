@@ -11,7 +11,7 @@
     <projectUrl>http://www.pypy.org</projectUrl>
     <iconUrl>https://rawgit.com/kirbyfan64/python.pypy/master/pypy-icon.png</iconUrl>
     <copyright>2003-2018 The PyPy Developers</copyright>
-    <licenseUrl>https://bitbucket.org/pypy/pypy/src/release-pypy2.7-v5.10.0/LICENSE</licenseUrl>
+    <licenseUrl>https://bitbucket.org/pypy/pypy/src/release-pypy2.7-v6.0.0/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://bitbucket.org/pypy/pypy</projectSourceUrl>
     <docsUrl>https://pypy.readthedocs.io/en/latest/</docsUrl>
@@ -20,7 +20,7 @@
     <tags>python pypy jit rpython</tags>
     <summary>PyPy - a fast Python interpreter</summary>
     <description>PyPy is a fast, compliant Python 2.7 interpreter written in Python.</description>
-    <releaseNotes>http://pypy.readthedocs.io/en/latest/release-v5.10.0.html</releaseNotes>
+    <releaseNotes>https://pypy.readthedocs.io/en/latest/release-v6.0.0.html</releaseNotes>
     <dependencies>
       <dependency id="vcredist2008"/>
     </dependencies>
