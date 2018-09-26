@@ -1,9 +1,9 @@
-python.pypy
-===========
+``python.pypy``
+===============
 
 A Chocolatey package for PyPy.
 
-**Current version:** 5.10 (Python 2)
+**Current version:** 6.0.0 (Python 2.7.13)
 
 `Chocolatey package link`_.
 
