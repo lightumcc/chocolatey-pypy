@@ -1,1 +1,2 @@
-python.pypy.*.nupkg
+pypy2/python.pypy.*.nupkg
+pypy3/pypy3.*.nupkg
