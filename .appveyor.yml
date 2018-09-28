@@ -1,0 +1,23 @@
+version: 1.0.{build}.{branch}
+
+build: off
+
+matrix:
+  fast_finish: true
+
+# Always use a 64-bit machine.
+platform:
+  - x64
+
+install:
+  - cd pypy2 && choco pack && cd ..
+  - cd pypy3 && choco pack && cd ..
+
+test_script:
+  - pypy2\install.bat
+  - pypy --version
+  - pypy3\install.bat
+  - pypy3 --version
+
+artifacts:
+  - path: '**\*.nupkg' # find all NuGet packages recursively
