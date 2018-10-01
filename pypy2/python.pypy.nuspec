@@ -4,12 +4,12 @@
   <metadata>
     <id>python.pypy</id>
     <version>6.0.0</version>
-    <packageSourceUrl>https://github.com/kirbyfan64/python.pypy</packageSourceUrl>
+    <packageSourceUrl>https://github.com/kirbyfan64/chocolatey-pypy</packageSourceUrl>
     <owners>Ryan Gonzalez</owners>
     <title>PyPy</title>
     <authors>The PyPy Developers</authors>
     <projectUrl>http://www.pypy.org</projectUrl>
-    <iconUrl>https://rawgit.com/kirbyfan64/python.pypy/master/pypy-icon.png</iconUrl>
+    <iconUrl>https://rawgit.com/kirbyfan64/chocolatey-pypy/master/pypy-icon.png</iconUrl>
     <copyright>2003-2018 The PyPy Developers</copyright>
     <licenseUrl>https://bitbucket.org/pypy/pypy/src/release-pypy2.7-v6.0.0/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
