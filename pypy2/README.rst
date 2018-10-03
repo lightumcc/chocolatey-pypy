@@ -1,7 +1,7 @@
 ``python.pypy``
 ===============
 
-A Chocolatey package for PyPy.
+    A Chocolatey package for PyPy.
 
 **Current version:** 6.0.0 (Python 2.7.13)
 

@@ -1,7 +1,7 @@
 Chocolatey PyPy
 ---------------
 
-[![AppVeyor CI Build](https://img.shields.io/appveyor/ci/dhermes/chocolatey-pypy3/master.svg?maxAge=3600&label=AppVeyor)](https://ci.appveyor.com/project/dhermes/chocolatey-pypy3/history)
+[![AppVeyor CI Build](https://img.shields.io/appveyor/ci/kirbyfan64/chocolatey-pypy/master.svg?maxAge=3600&label=AppVeyor)](https://ci.appveyor.com/project/kirbyfan64/chocolatey-pypy/history)
 
 This repository contains configuration for the PyPy packages on
 Chocolatey:
