@@ -14,13 +14,13 @@
     <licenseUrl>https://foss.heptapod.net/pypy/pypy/blob/release-pypy2.7-v7.3.1/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://foss.heptapod.net/pypy/pypy</projectSourceUrl>
-    <docsUrl>https://pypy.readthedocs.io/en/latest/</docsUrl>
+    <docsUrl>https://doc.pypy.org/en/latest/</docsUrl>
     <mailingListUrl>https://mail.python.org/mailman/listinfo/pypy-dev</mailingListUrl>
     <bugTrackerUrl>https://foss.heptapod.net/pypy/pypy/issues</bugTrackerUrl>
     <tags>python pypy jit rpython</tags>
     <summary>PyPy - a fast Python interpreter</summary>
     <description>PyPy is a fast, compliant Python 2.7 interpreter written in Python.</description>
-    <releaseNotes>https://pypy.readthedocs.io/en/latest/release-v7.3.1.html</releaseNotes>
+    <releaseNotes>https://doc.pypy.org/en/latest/release-v7.3.1.html</releaseNotes>
     <dependencies>
       <dependency id="vcredist2008"/>
     </dependencies>
