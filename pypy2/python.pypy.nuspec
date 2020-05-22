@@ -3,24 +3,24 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>python.pypy</id>
-    <version>7.1.0</version>
+    <version>7.3.1</version>
     <packageSourceUrl>https://github.com/refi64/chocolatey-pypy</packageSourceUrl>
     <owners>Ryan Gonzalez</owners>
     <title>PyPy</title>
     <authors>The PyPy Developers</authors>
     <projectUrl>http://www.pypy.org</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/refi64/chocolatey-pypy/7.1.0/pypy-icon.png</iconUrl>
-    <copyright>2003-2019 The PyPy Developers</copyright>
-    <licenseUrl>https://bitbucket.org/pypy/pypy/src/release-pypy2.7-v7.1.0/LICENSE</licenseUrl>
+    <iconUrl>https://raw.githubusercontent.com/refi64/chocolatey-pypy/7.3.1/pypy-icon.png</iconUrl>
+    <copyright>2003-2020 The PyPy Developers</copyright>
+    <licenseUrl>https://foss.heptapod.net/pypy/pypy/blob/release-pypy2.7-v7.3.1/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://bitbucket.org/pypy/pypy</projectSourceUrl>
-    <docsUrl>https://pypy.readthedocs.io/en/latest/</docsUrl>
+    <projectSourceUrl>https://foss.heptapod.net/pypy/pypy</projectSourceUrl>
+    <docsUrl>https://doc.pypy.org/en/latest/</docsUrl>
     <mailingListUrl>https://mail.python.org/mailman/listinfo/pypy-dev</mailingListUrl>
-    <bugTrackerUrl>https://bitbucket.org/pypy/pypy/issues</bugTrackerUrl>
+    <bugTrackerUrl>https://foss.heptapod.net/pypy/pypy/issues</bugTrackerUrl>
     <tags>python pypy jit rpython</tags>
     <summary>PyPy - a fast Python interpreter</summary>
     <description>PyPy is a fast, compliant Python 2.7 interpreter written in Python.</description>
-    <releaseNotes>https://pypy.readthedocs.io/en/latest/release-v7.1.0.html</releaseNotes>
+    <releaseNotes>https://doc.pypy.org/en/latest/release-v7.3.1.html</releaseNotes>
     <dependencies>
       <dependency id="vcredist2008"/>
     </dependencies>
