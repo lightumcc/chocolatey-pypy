@@ -2,7 +2,7 @@ $ErrorActionPreference = 'Stop'
 
 $packagename  = 'pypy3'
 $toolsdir     = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url          = 'https://bitbucket.org/pypy/pypy/downloads/pypy3.6-v7.3.1-win32.zip'
+$url          = 'https://downloads.python.org/pypy/pypy3.6-v7.3.1-win32.zip'
 $checksum     = '752fbe8c4abee6468e5ce22af82818f821daded36faa65f3d69423f9c217007a'
 $checksumType = 'sha256'
 
