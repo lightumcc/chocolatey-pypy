@@ -3,15 +3,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>python.pypy</id>
-    <version>7.3.1.20200825</version>
+    <version>7.3.4.20210425</version>
     <packageSourceUrl>https://github.com/refi64/chocolatey-pypy</packageSourceUrl>
     <owners>Ryan Gonzalez</owners>
     <title>PyPy</title>
     <authors>The PyPy Developers</authors>
     <projectUrl>http://www.pypy.org</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/refi64/chocolatey-pypy/7.3.1/pypy-icon.png</iconUrl>
-    <copyright>2003-2020 The PyPy Developers</copyright>
-    <licenseUrl>https://foss.heptapod.net/pypy/pypy/blob/release-pypy2.7-v7.3.1/LICENSE</licenseUrl>
+    <iconUrl>https://raw.githubusercontent.com/refi64/chocolatey-pypy/7.3.4/pypy-icon.png</iconUrl>
+    <copyright>2003-2021 The PyPy Developers</copyright>
+    <licenseUrl>https://foss.heptapod.net/pypy/pypy/blob/release-pypy2.7-v7.3.4/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://foss.heptapod.net/pypy/pypy</projectSourceUrl>
     <docsUrl>https://doc.pypy.org/en/latest/</docsUrl>
@@ -20,9 +20,10 @@
     <tags>python pypy jit rpython</tags>
     <summary>PyPy - a fast Python interpreter</summary>
     <description>PyPy is a fast, compliant Python 2.7 interpreter written in Python.</description>
-    <releaseNotes>https://doc.pypy.org/en/latest/release-v7.3.1.html</releaseNotes>
+    <releaseNotes>https://doc.pypy.org/en/latest/release-v7.3.4.html</releaseNotes>
     <dependencies>
-      <dependency id="vcredist2008"/>
+      <dependency id="vcredist2015"/>
+      <dependency id="kb2919355"/>
     </dependencies>
   </metadata>
   <files>

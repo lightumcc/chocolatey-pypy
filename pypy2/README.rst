@@ -3,7 +3,7 @@
 
     A Chocolatey package for PyPy.
 
-**Current version:** 7.3.1 (Python 2.7.13)
+**Current version:** 7.3.4 (Python 2.7.18)
 
 `Chocolatey package link`_.
 
