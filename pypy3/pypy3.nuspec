@@ -3,24 +3,24 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>pypy3</id>
-    <version>7.3.4.20210425</version>
+    <version>7.3.19.20250317</version>
     <packageSourceUrl>https://github.com/refi64/chocolatey-pypy</packageSourceUrl>
     <owners>Danny Hermes</owners>
     <title>PyPy 3</title>
     <authors>The PyPy Developers</authors>
     <projectUrl>http://www.pypy.org</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/refi64/chocolatey-pypy/7.3.4/pypy-icon.png</iconUrl>
-    <copyright>2003-2021 The PyPy Developers</copyright>
-    <licenseUrl>https://foss.heptapod.net/pypy/pypy/blob/release-pypy3.7-v7.3.4/LICENSE</licenseUrl>
+    <iconUrl>https://pypy.org/images/pypy-logo.svg</iconUrl>
+    <copyright>2003-2025 The PyPy Developers</copyright>
+    <licenseUrl>hhttps://github.com/pypy/pypy/blob/release-pypy3.10-v7.3.19/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://foss.heptapod.net/pypy/pypy</projectSourceUrl>
+    <projectSourceUrl>https://github.com/pypy/pypy/issues</projectSourceUrl>
     <docsUrl>https://doc.pypy.org/en/latest/</docsUrl>
     <mailingListUrl>https://mail.python.org/mailman/listinfo/pypy-dev</mailingListUrl>
     <bugTrackerUrl>https://foss.heptapod.net/pypy/pypy/issues</bugTrackerUrl>
     <tags>python python3 pypy jit rpython</tags>
     <summary>PyPy - a fast Python 3 interpreter</summary>
-    <description>PyPy is a fast, compliant Python 3.7 interpreter written in Python.</description>
-    <releaseNotes>https://doc.pypy.org/en/latest/release-v7.3.4.html</releaseNotes>
+    <description>PyPy is a fast, compliant Python 3.10 interpreter written in Python.</description>
+    <releaseNotes>https://doc.pypy.org/en/latest/release-v7.3.19.html</releaseNotes>
     <dependencies>
       <dependency id="vcredist2015"/>
       <dependency id="kb2919355"/>
